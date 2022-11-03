@@ -1,0 +1,16 @@
+C:\Users\Saurabh\OneDrive\Desktop\Bridge NET\Basic Program\Flip_Coin\Flip_Coin\bin\Debug\Flip_Coin.exe.config
+C:\Users\Saurabh\OneDrive\Desktop\Bridge NET\Basic Program\Flip_Coin\Flip_Coin\bin\Debug\Flip_Coin.exe
+C:\Users\Saurabh\OneDrive\Desktop\Bridge NET\Basic Program\Flip_Coin\Flip_Coin\bin\Debug\Flip_Coin.pdb
+C:\Users\Saurabh\OneDrive\Desktop\Bridge NET\Basic Program\Flip_Coin\Flip_Coin\obj\Debug\Flip_Coin.csproj.AssemblyReference.cache
+C:\Users\Saurabh\OneDrive\Desktop\Bridge NET\Basic Program\Flip_Coin\Flip_Coin\obj\Debug\Flip_Coin.csproj.SuggestedBindingRedirects.cache
+C:\Users\Saurabh\OneDrive\Desktop\Bridge NET\Basic Program\Flip_Coin\Flip_Coin\obj\Debug\Flip_Coin.csproj.CoreCompileInputs.cache
+C:\Users\Saurabh\OneDrive\Desktop\Bridge NET\Basic Program\Flip_Coin\Flip_Coin\obj\Debug\Flip_Coin.exe
+C:\Users\Saurabh\OneDrive\Desktop\Bridge NET\Basic Program\Flip_Coin\Flip_Coin\obj\Debug\Flip_Coin.pdb
+C:\Users\Admin\Desktop\TEST\Flip_Coin\Flip_Coin\bin\Debug\Flip_Coin.exe.config
+C:\Users\Admin\Desktop\TEST\Flip_Coin\Flip_Coin\bin\Debug\Flip_Coin.exe
+C:\Users\Admin\Desktop\TEST\Flip_Coin\Flip_Coin\bin\Debug\Flip_Coin.pdb
+C:\Users\Admin\Desktop\TEST\Flip_Coin\Flip_Coin\obj\Debug\Flip_Coin.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\TEST\Flip_Coin\Flip_Coin\obj\Debug\Flip_Coin.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\TEST\Flip_Coin\Flip_Coin\obj\Debug\Flip_Coin.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\TEST\Flip_Coin\Flip_Coin\obj\Debug\Flip_Coin.exe
+C:\Users\Admin\Desktop\TEST\Flip_Coin\Flip_Coin\obj\Debug\Flip_Coin.pdb

@@ -1,0 +1,16 @@
+C:\Users\Saurabh\OneDrive\Desktop\Practice\Methods\Harmonic_N\Harmonic_N\bin\Debug\Harmonic_N.exe.config
+C:\Users\Saurabh\OneDrive\Desktop\Practice\Methods\Harmonic_N\Harmonic_N\bin\Debug\Harmonic_N.exe
+C:\Users\Saurabh\OneDrive\Desktop\Practice\Methods\Harmonic_N\Harmonic_N\bin\Debug\Harmonic_N.pdb
+C:\Users\Saurabh\OneDrive\Desktop\Practice\Methods\Harmonic_N\Harmonic_N\obj\Debug\Harmonic_N.csproj.AssemblyReference.cache
+C:\Users\Saurabh\OneDrive\Desktop\Practice\Methods\Harmonic_N\Harmonic_N\obj\Debug\Harmonic_N.csproj.SuggestedBindingRedirects.cache
+C:\Users\Saurabh\OneDrive\Desktop\Practice\Methods\Harmonic_N\Harmonic_N\obj\Debug\Harmonic_N.csproj.CoreCompileInputs.cache
+C:\Users\Saurabh\OneDrive\Desktop\Practice\Methods\Harmonic_N\Harmonic_N\obj\Debug\Harmonic_N.exe
+C:\Users\Saurabh\OneDrive\Desktop\Practice\Methods\Harmonic_N\Harmonic_N\obj\Debug\Harmonic_N.pdb
+C:\Users\Admin\Desktop\TEST\Harmonic_N\Harmonic_N\bin\Debug\Harmonic_N.exe.config
+C:\Users\Admin\Desktop\TEST\Harmonic_N\Harmonic_N\bin\Debug\Harmonic_N.exe
+C:\Users\Admin\Desktop\TEST\Harmonic_N\Harmonic_N\bin\Debug\Harmonic_N.pdb
+C:\Users\Admin\Desktop\TEST\Harmonic_N\Harmonic_N\obj\Debug\Harmonic_N.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\TEST\Harmonic_N\Harmonic_N\obj\Debug\Harmonic_N.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\TEST\Harmonic_N\Harmonic_N\obj\Debug\Harmonic_N.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\TEST\Harmonic_N\Harmonic_N\obj\Debug\Harmonic_N.exe
+C:\Users\Admin\Desktop\TEST\Harmonic_N\Harmonic_N\obj\Debug\Harmonic_N.pdb

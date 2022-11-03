@@ -1,0 +1,24 @@
+C:\Users\Saurabh\OneDrive\Desktop\Practice\Methods\Power_Of_Two\Power_Of_Two\bin\Debug\Power_Of_Two.exe.config
+C:\Users\Saurabh\OneDrive\Desktop\Practice\Methods\Power_Of_Two\Power_Of_Two\bin\Debug\Power_Of_Two.exe
+C:\Users\Saurabh\OneDrive\Desktop\Practice\Methods\Power_Of_Two\Power_Of_Two\bin\Debug\Power_Of_Two.pdb
+C:\Users\Saurabh\OneDrive\Desktop\Practice\Methods\Power_Of_Two\Power_Of_Two\obj\Debug\Power_Of_Two.csproj.AssemblyReference.cache
+C:\Users\Saurabh\OneDrive\Desktop\Practice\Methods\Power_Of_Two\Power_Of_Two\obj\Debug\Power_Of_Two.csproj.SuggestedBindingRedirects.cache
+C:\Users\Saurabh\OneDrive\Desktop\Practice\Methods\Power_Of_Two\Power_Of_Two\obj\Debug\Power_Of_Two.csproj.CoreCompileInputs.cache
+C:\Users\Saurabh\OneDrive\Desktop\Practice\Methods\Power_Of_Two\Power_Of_Two\obj\Debug\Power_Of_Two.exe
+C:\Users\Saurabh\OneDrive\Desktop\Practice\Methods\Power_Of_Two\Power_Of_Two\obj\Debug\Power_Of_Two.pdb
+C:\Users\Saurabh\OneDrive\Desktop\Bridge NET\Basic Program\Power_Of_Two\Power_Of_Two\obj\Debug\Power_Of_Two.csproj.AssemblyReference.cache
+C:\Users\Saurabh\OneDrive\Desktop\Bridge NET\Basic Program\Power_Of_Two\Power_Of_Two\obj\Debug\Power_Of_Two.csproj.SuggestedBindingRedirects.cache
+C:\Users\Saurabh\OneDrive\Desktop\Bridge NET\Basic Program\Power_Of_Two\Power_Of_Two\obj\Debug\Power_Of_Two.csproj.CoreCompileInputs.cache
+C:\Users\Saurabh\OneDrive\Desktop\Bridge NET\Basic Program\Power_Of_Two\Power_Of_Two\obj\Debug\Power_Of_Two.exe
+C:\Users\Saurabh\OneDrive\Desktop\Bridge NET\Basic Program\Power_Of_Two\Power_Of_Two\obj\Debug\Power_Of_Two.pdb
+C:\Users\Saurabh\OneDrive\Desktop\Bridge NET\Basic Program\Power_Of_Two\Power_Of_Two\bin\Debug\Power_Of_Two.exe.config
+C:\Users\Saurabh\OneDrive\Desktop\Bridge NET\Basic Program\Power_Of_Two\Power_Of_Two\bin\Debug\Power_Of_Two.exe
+C:\Users\Saurabh\OneDrive\Desktop\Bridge NET\Basic Program\Power_Of_Two\Power_Of_Two\bin\Debug\Power_Of_Two.pdb
+C:\Users\Admin\Desktop\TEST\Power_Of_Two\Power_Of_Two\bin\Debug\Power_Of_Two.exe.config
+C:\Users\Admin\Desktop\TEST\Power_Of_Two\Power_Of_Two\bin\Debug\Power_Of_Two.exe
+C:\Users\Admin\Desktop\TEST\Power_Of_Two\Power_Of_Two\bin\Debug\Power_Of_Two.pdb
+C:\Users\Admin\Desktop\TEST\Power_Of_Two\Power_Of_Two\obj\Debug\Power_Of_Two.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\TEST\Power_Of_Two\Power_Of_Two\obj\Debug\Power_Of_Two.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\TEST\Power_Of_Two\Power_Of_Two\obj\Debug\Power_Of_Two.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\TEST\Power_Of_Two\Power_Of_Two\obj\Debug\Power_Of_Two.exe
+C:\Users\Admin\Desktop\TEST\Power_Of_Two\Power_Of_Two\obj\Debug\Power_Of_Two.pdb

@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\TEST\Reverse_N\Reverse_No\Reverse_No\bin\Debug\net6.0\Reverse_No.exe
+C:\Users\Admin\Desktop\TEST\Reverse_N\Reverse_No\Reverse_No\bin\Debug\net6.0\Reverse_No.deps.json
+C:\Users\Admin\Desktop\TEST\Reverse_N\Reverse_No\Reverse_No\bin\Debug\net6.0\Reverse_No.runtimeconfig.json
+C:\Users\Admin\Desktop\TEST\Reverse_N\Reverse_No\Reverse_No\bin\Debug\net6.0\Reverse_No.dll
+C:\Users\Admin\Desktop\TEST\Reverse_N\Reverse_No\Reverse_No\bin\Debug\net6.0\Reverse_No.pdb
+C:\Users\Admin\Desktop\TEST\Reverse_N\Reverse_No\Reverse_No\obj\Debug\net6.0\Reverse_No.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\TEST\Reverse_N\Reverse_No\Reverse_No\obj\Debug\net6.0\Reverse_No.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\TEST\Reverse_N\Reverse_No\Reverse_No\obj\Debug\net6.0\Reverse_No.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\TEST\Reverse_N\Reverse_No\Reverse_No\obj\Debug\net6.0\Reverse_No.AssemblyInfo.cs
+C:\Users\Admin\Desktop\TEST\Reverse_N\Reverse_No\Reverse_No\obj\Debug\net6.0\Reverse_No.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\TEST\Reverse_N\Reverse_No\Reverse_No\obj\Debug\net6.0\Reverse_No.dll
+C:\Users\Admin\Desktop\TEST\Reverse_N\Reverse_No\Reverse_No\obj\Debug\net6.0\refint\Reverse_No.dll
+C:\Users\Admin\Desktop\TEST\Reverse_N\Reverse_No\Reverse_No\obj\Debug\net6.0\Reverse_No.pdb
+C:\Users\Admin\Desktop\TEST\Reverse_N\Reverse_No\Reverse_No\obj\Debug\net6.0\Reverse_No.genruntimeconfig.cache
+C:\Users\Admin\Desktop\TEST\Reverse_N\Reverse_No\Reverse_No\obj\Debug\net6.0\ref\Reverse_No.dll
